@@ -96,7 +96,7 @@ function RSVP() {
               We can't wait to celebrate with you! 🌸
             </p>
             <p className="font-cinzel text-gold" style={{ fontSize: '0.7rem', letterSpacing: '0.2em', opacity: 0.5, marginTop: '1.5rem' }}>
-              RAMESH BABU ❤ AKHILAJA
+              RAMESH  ❤ AKHILAJA
             </p>
           </motion.div>
         ) : (

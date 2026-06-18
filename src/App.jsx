@@ -140,7 +140,7 @@ function App() {
       >
         {/* Gentle instrumental — will load only if unmuted */}
         <source
-          src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+          src="https://ayuryoga-ashram.com/wp-content/uploads/2017/06/Indian-Background-Flute-Instrumental-Meditation-Music-3.mp3"
           type="audio/mpeg"
         />
       </audio>
